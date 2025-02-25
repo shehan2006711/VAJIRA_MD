@@ -1,5 +1,7 @@
-l
+
 <h1 align="center">VAJIRA-MD 9.O</h1>
+
+## after deploy change your mode  👉 .mode button or .mode nonbutton
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -52,6 +54,17 @@ l
 
   </a>
 </p>
+
+
+
+## VAJIRA MD ERROR SUPPORT BOT
+
+<a href="https://goto.now/3NtN2"><img src="" alt="VAJIRA MD ERROR SUPPORT" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+
 
 ## 💡 FOLLOW OUR CHANAL
 
